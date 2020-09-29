@@ -1,6 +1,6 @@
 # sparkySeedTools
 
-[![Build Status](https://travis-ci.org/tuck1s/sparkySeedTools.svg?branch=master)](https://travis-ci.org/tuck1s/sparkySeedTools)
+[![Build Status](https://travis-ci.com/tuck1s/sparkySeedTools.svg?branch=master)](https://travis-ci.com/tuck1s/sparkySeedTools)
 
 ## count-domains
 
