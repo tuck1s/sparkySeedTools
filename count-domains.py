@@ -13,7 +13,7 @@ class DomainList:
         self.domains = {}
 
     def add(self, name):
-        dn = domainpart(name)
+        dn = domainpart(name).lower() # unify different cases to single entry
         if dn in self.domains:
             self.domains[dn] += 1 # Already seen = increment count
         else:

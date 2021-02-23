@@ -1,3 +1,5 @@
 intelliseed_list.txt
 seedlist.txt
 Pipfile.lock
+.DS_Store
+*.txt
