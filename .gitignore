@@ -1,5 +1,5 @@
-intelliseed_list.txt
-seedlist.txt
+intelliseed_list*.txt
+seedlist*.txt
 Pipfile.lock
 .DS_Store
-*.txt
+old/*
